@@ -86,7 +86,7 @@ function draw() {
 
   fill('red');
   textSize(20);
-  text("PRESS SPACE TO GET A SECOND CHANCE TO PLAY", 200,500);
+  text("PRESS SPACE TO GET A SECOND CHANCE TO PLAY", 300,450);
 
   box1.display();
   box2.display();
